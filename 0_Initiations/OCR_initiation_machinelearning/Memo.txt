@@ -1,0 +1,8 @@
+
+# Selectionner un echantillon dans le set de données 
+sample = np.random.randint(data_size, size=data_size*0.1)
+sampled_data = data[sample]
+
+# creer un training / testing set via scihit learn
+from sklearn.model_selection import train_test_split
+xtrain, xtest, ytrain, ytest = train_test_split(x, y, train_size=0.8)

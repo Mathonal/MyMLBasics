@@ -2,3 +2,5 @@
 __pycache__/
 .ipynb_checkpoints/
 *.py[cod]
+operations_enrichies_perso.csv
+operations_perso.csv
