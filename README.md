@@ -10,6 +10,12 @@ Need refreshment as most of it is really basic stuff.
 data manipulations, preparations and some descriptives statistics.
 (more advanced uses of libs and plots/ types of plots)
 
+### 1_Stats_python : Course from Linkedin learning
+data manipulations, preparations and some descriptives statistics.
+(more advanced uses of libs and plots/ types of plots)
+https://www.linkedin.com/learning/python-les-statistiques/bienvenue-dans-python-les-statistiques
+
+
 ### 2_machine_learning :
 uses cases on several tools in the scikitlearn lib on several type of datasets.
 Support Vector Machine, Decision Trees, linear regression, K-mean clustering, primary components analysis, t-distributed Stochastic Neighbor Embedding.
